@@ -3,7 +3,11 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   <div>
     <main>
       <h1>home</h1>
+<<<<<<< HEAD
       <img src="./assets/icon.png" alt="" />
+=======
+      <img src="./assets/icon.png" alt="">
+>>>>>>> 1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
       <div id="row1">
         <h1>21</h1>
         <h2>d5efineAsyncComponent</h2>
@@ -29,9 +33,16 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   </div>
 </template>
 
+<<<<<<< HEAD
 <script setup lang="ts"></script>
 
 <style scoped>
+=======
+<script setup lang="ts">
+</script>
+
+<style>
+>>>>>>> 1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
 #row1 {
   display: flex;
 }
@@ -46,6 +57,10 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   border-radius: 25px;
   width: fit-content;
   height: 250px;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
 }
 #title2 {
   color: #00b4d8;
@@ -80,4 +95,8 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   margin: 12px;
   padding: 15px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
 </style>
