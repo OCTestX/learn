@@ -3,11 +3,8 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   <div>
     <main>
       <h1>home</h1>
-      <<<<<<< HEAD
       <img src="./assets/icon.png" alt="" />
-      =======
       <img src="./assets/icon.png" alt="" />
-      >>>>>>> 1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
       <div id="row1">
         <h1>21</h1>
         <h2>d5efineAsyncComponent</h2>
@@ -33,17 +30,10 @@ import VueDevTools from 'vite-plugin-vue-devtools';
   </div>
 </template>
 
-<<<<<<< HEAD
 <script setup lang="ts"></script>
 
 <style scoped>
-=======
-  <script
-  setup
-  lang='ts'
-  > </script
-  > <style>>>>>>>1d7548c71dfd5eae69c2ac22ed7ef09cdfdb37fb
-  #row1 {
+#row1 {
   display: flex;
 }
 
